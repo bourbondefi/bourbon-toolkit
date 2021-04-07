@@ -8,13 +8,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pancakeswap/pancake-toolkit.git"
+    "url": "git+https://github.com/bourbondefi/pancake-toolkit.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pancakeswap/pancake-toolkit/issues"
+    "url": "https://github.com/bourbondefi/bourbon-toolkit/issues"
   },
-  "homepage": "https://github.com/pancakeswap/pancake-toolkit#readme",
+  "homepage": "https://github.com/bourbondefi/bourbon-toolkit#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
